@@ -7,3 +7,4 @@
 - [27. Remove Element](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/array/RemoveElement.java) (Easy)
 - [35. Search Insert Position](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/array/SearchInsertPosition.java) (Easy)
 - [66. Plus One](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/array/PlusOne.java) (Easy)
+- [88. Merge Sorted Array](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/array/MergeSortedArray.java) (Easy)
