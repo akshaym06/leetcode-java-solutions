@@ -10,3 +10,4 @@
 - [88. Merge Sorted Array](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/array/MergeSortedArray.java) (Easy)
 - [108. Convert Sorted Array to Binary Search Tree](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/array/SortedArrayToBST.java) (Easy)
 - [118. Pascal's Triangle](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/array/PascalsTriangle.java) (Easy)
+- [119. Pascal's Triangle II](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/array/PascalsTriangle2.java) (Easy)
