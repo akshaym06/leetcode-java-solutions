@@ -11,3 +11,4 @@
 - [108. Convert Sorted Array to Binary Search Tree](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/array/SortedArrayToBST.java) (Easy)
 - [118. Pascal's Triangle](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/array/PascalsTriangle.java) (Easy)
 - [119. Pascal's Triangle II](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/array/PascalsTriangle2.java) (Easy)
+- [121. Best Time to Buy and Sell Stock](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/array/BuyAndSellStocks.java) (Easy)
