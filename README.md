@@ -14,3 +14,4 @@
 - [121. Best Time to Buy and Sell Stock](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/array/BuyAndSellStocks.java) (Easy)
 - [136. Single Number](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/array/SingleNumber.java) (Easy)
 - [169. Majority Element](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/array/MajorityElement.java) (Easy)
+- [217. Contains Duplicate](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/array/ContainsDuplicate.java) (Easy)
