@@ -17,3 +17,7 @@
 - [217. Contains Duplicate](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/array/ContainsDuplicate.java) (Easy)
 - [219. Contains Duplicate II](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/array/ContainsDuplicate2.java) (Easy)
 - [228. Summary Ranges](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/array/SummaryRanges.java) (Easy)
+
+[Linkedlist](https://github.com/akshaym06/leetcode-java-solutions/tree/main/src/linkedlist)
+
+- [21. Merge Two Sorted Lists](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/linkedlist/MergeTwoSortedLists.java) (Easy)
