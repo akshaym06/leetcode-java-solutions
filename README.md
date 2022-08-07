@@ -22,3 +22,4 @@
 
 - [21. Merge Two Sorted Lists](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/linkedlist/MergeTwoSortedLists.java) (Easy)
 - [83. Remove Duplicates from Sorted List](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/linkedlist/RemoveDuplicates.java) (Easy)
+- [141. Linked List Cycle](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/linkedlist/LinkedListCycle.java) (Easy)
