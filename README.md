@@ -25,3 +25,4 @@
 - [141. Linked List Cycle](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/linkedlist/LinkedListCycle.java) (Easy)
 - [160. Intersection of Two Linked Lists](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/linkedlist/Intersection.java) (Easy)
 - [203. Remove Linked List Elements](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/linkedlist/RemoveElements.java) (Easy)
+- [206. Reverse Linked List](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/linkedlist/ReverseLinkedList.java) (Easy)
