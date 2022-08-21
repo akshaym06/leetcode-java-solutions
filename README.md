@@ -27,3 +27,4 @@
 - [203. Remove Linked List Elements](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/linkedlist/RemoveElements.java) (Easy)
 - [206. Reverse Linked List](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/linkedlist/ReverseLinkedList.java) (Easy)
 - [234. Palindrome Linked List](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/linkedlist/Palindrome.java) (Easy)
+- [237. Delete Node in a Linked List](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/linkedlist/DeleteNode.java) (Easy)
