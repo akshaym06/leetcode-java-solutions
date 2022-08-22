@@ -30,3 +30,4 @@
 - [237. Delete Node in a Linked List](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/linkedlist/DeleteNode.java) (Easy)
 - [705. Design HashSet](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/linkedlist/MyHashSet.java) (Easy)
 - [706. Design HashMap](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/linkedlist/MyHashMap.java) (Easy)
+- [876. Middle of the Linked List](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/linkedlist/MiddleNode.java) (Easy)
