@@ -35,3 +35,4 @@
 - [1290. Convert Binary Number in a Linked List to Integer](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/linkedlist/BinaryToInteger.java) (Easy)
 - [2. Add Two Numbers](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/linkedlist/AddTwoNumbers.java) (Medium)
 - [19. Remove Nth Node From End of List](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/linkedlist/RemoveNthNodeFromEnd.java) (Medium)
+- [24. Swap Nodes in Pairs](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/linkedlist/SwapNodesInPairs.java) (Medium)
