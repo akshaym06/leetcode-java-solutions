@@ -38,3 +38,4 @@
 - [24. Swap Nodes in Pairs](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/linkedlist/SwapNodesInPairs.java) (Medium)
 - [61. Rotate List](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/linkedlist/RotateList.java) (Medium)
 - [82. Remove Duplicates from Sorted List II](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/linkedlist/RemoveDuplicates2.java) (Medium)
+- [86. Partition List](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/linkedlist/PartitionList.java) (Medium)
