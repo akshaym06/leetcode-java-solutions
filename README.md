@@ -44,3 +44,4 @@
 [Binary Tree](https://github.com/akshaym06/leetcode-java-solutions/tree/main/src/binarytree)
 
 - [94. Binary Tree Inorder Traversal](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/binarytree/InorderTraversal.java) (Easy)
+- [100. Same Tree](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/binarytree/SameTree.java) (Easy)
