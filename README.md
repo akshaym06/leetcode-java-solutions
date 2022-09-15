@@ -40,6 +40,7 @@
 - [82. Remove Duplicates from Sorted List II](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/linkedlist/RemoveDuplicates2.java) (Medium)
 - [86. Partition List](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/linkedlist/PartitionList.java) (Medium)
 - [92. Reverse Linked List II](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/linkedlist/ReverseLinkedList2.java) (Medium)
+- [109. Convert Sorted List to Binary Search Tree](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/linkedlist/ConvertListToBst.java) (Medium)
 
 [Binary Tree](https://github.com/akshaym06/leetcode-java-solutions/tree/main/src/binarytree)
 
