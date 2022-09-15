@@ -42,6 +42,7 @@
 - [92. Reverse Linked List II](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/linkedlist/ReverseLinkedList2.java) (Medium)
 - [109. Convert Sorted List to Binary Search Tree](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/linkedlist/ConvertListToBst.java) (Medium)
 - [114. Flatten Binary Tree to Linked List](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/linkedlist/FlattenBinaryTreeToList.java) (Medium)
+- [116. Populating Next Right Pointers in Each Node](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/linkedlist/PopulateNextRightPointer.java) (Medium)
 
 [Binary Tree](https://github.com/akshaym06/leetcode-java-solutions/tree/main/src/binarytree)
 
