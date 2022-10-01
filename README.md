@@ -50,3 +50,4 @@
 - [100. Same Tree](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/binarytree/SameTree.java) (Easy)
 - [101. Symmetric Tree](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/binarytree/SymmetricTree.java) (Easy)
 - [104. Maximum Depth of Binary Tree](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/binarytree/MaxDepth.java) (Easy)
+- [110. Balanced Binary Tree](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/binarytree/BalancedBinaryTree.java) (Easy)
