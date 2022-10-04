@@ -53,3 +53,4 @@
 - [110. Balanced Binary Tree](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/binarytree/BalancedBinaryTree.java) (Easy)
 - [111. Minimum Depth of Binary Tree](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/binarytree/MinimumDepth.java) (Easy)
 - [112. Path Sum](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/binarytree/PathSum.java) (Easy)
+- [144. Binary Tree Preorder Traversal](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/binarytree/PreorderTraversal.java) (Easy)
