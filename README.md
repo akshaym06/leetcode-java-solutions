@@ -55,3 +55,4 @@
 - [112. Path Sum](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/binarytree/PathSum.java) (Easy)
 - [144. Binary Tree Preorder Traversal](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/binarytree/PreorderTraversal.java) (Easy)
 - [145. Binary Tree Postorder Traversal](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/binarytree/PostorderTraversal.java) (Easy)
+- [226. Invert Binary Tree](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/binarytree/InvertBinaryTree.java) (Easy)
