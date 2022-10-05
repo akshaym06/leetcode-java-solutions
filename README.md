@@ -22,6 +22,7 @@
 - [16. 3Sum Closest](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/array/ThreeSumClosest.java) (Medium)
 - [18. 4Sum](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/array/FourSum.java) (Medium)
 - [31. Next Permutation](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/array/NextPermutation.java) (Medium)
+- [39. Combination Sum](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/array/CombinationSum.java) (Medium)
 
 [Linked List](https://github.com/akshaym06/leetcode-java-solutions/tree/main/src/linkedlist)
 
