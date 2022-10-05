@@ -20,6 +20,7 @@
 - [11. Container With Most Water](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/array/ContainerWithMostWater.java) (Medium)
 - [15. 3Sum](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/array/ThreeSum.java) (Medium)
 - [16. 3Sum Closest](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/array/ThreeSumClosest.java) (Medium)
+- [18. 4Sum](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/array/FourSum.java) (Medium)
 
 [Linked List](https://github.com/akshaym06/leetcode-java-solutions/tree/main/src/linkedlist)
 
