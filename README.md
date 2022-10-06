@@ -26,6 +26,7 @@
 - [40. Combination Sum II](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/array/CombinationSum2.java) (Medium)
 - [45. Jump Game II](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/array/JumpGame2.java) (Medium)
 - [46. Permutations](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/array/Permutations.java) (Medium)
+- [47. Permutations II](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/array/Permutations2.java) (Medium)
 
 [Linked List](https://github.com/akshaym06/leetcode-java-solutions/tree/main/src/linkedlist)
 
