@@ -31,6 +31,7 @@
 - [53. Maximum Subarray](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/array/MaxSubArray.java) (Medium)
 - [54. Spiral Matrix](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/array/SpiralMatrix.java) (Medium)
 - [55. Jump Game](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/array/JumpGame.java) (Medium)
+- [56. Merge Intervals](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/array/MergeIntervals.java) (Medium)
 
 [Linked List](https://github.com/akshaym06/leetcode-java-solutions/tree/main/src/linkedlist)
 
