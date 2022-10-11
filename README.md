@@ -33,6 +33,7 @@
 - [55. Jump Game](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/array/JumpGame.java) (Medium)
 - [56. Merge Intervals](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/array/MergeIntervals.java) (Medium)
 - [57. Insert Interval](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/array/InsertInterval.java) (Medium)
+- [59. Spiral Matrix II](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/array/SpiralMatrix2.java) (Medium)
 
 [Linked List](https://github.com/akshaym06/leetcode-java-solutions/tree/main/src/linkedlist)
 
