@@ -76,3 +76,4 @@
 - [404. Sum of Left Leaves](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/binarytree/LeftLeavesSum.java) (Easy)
 - [501. Find Mode in Binary Search Tree](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/binarytree/FindModeInBST.java) (Easy)
 - [95. Unique Binary Search Trees II](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/binarytree/UniqueBST2.java) (Medium)
+- [96. Unique Binary Search Trees](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/binarytree/UniqueBST.java) (Medium)
