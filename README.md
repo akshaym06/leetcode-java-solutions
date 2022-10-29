@@ -79,3 +79,7 @@
 - [96. Unique Binary Search Trees](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/binarytree/UniqueBST.java) (Medium)
 - [98. Validate Binary Search Tree](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/binarytree/ValidateBST.java) (Medium)
 - [99. Recover Binary Search Tree](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/binarytree/RecoverBST.java) (Medium)
+
+[Heap](https://github.com/akshaym06/leetcode-java-solutions/tree/main/src/heap)
+
+- [215. Kth Largest Element in an Array](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/binarytree/KthLargest.java) (Medium)
