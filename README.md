@@ -34,6 +34,7 @@
 - [56. Merge Intervals](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/array/MergeIntervals.java) (Medium)
 - [57. Insert Interval](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/array/InsertInterval.java) (Medium)
 - [59. Spiral Matrix II](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/array/SpiralMatrix2.java) (Medium)
+- [4. Median of Two Sorted Arrays](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/array/MedianOfTwoSortedArrays.java) (Hard)
 
 [Linked List](https://github.com/akshaym06/leetcode-java-solutions/tree/main/src/linkedlist)
 
