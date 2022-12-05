@@ -89,3 +89,4 @@
 [Stack](https://github.com/akshaym06/leetcode-java-solutions/tree/main/src/stack)
 
 - [225. Implement Stack using Queues](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/stack/ImplementStackUsingQueues.java) (Easy)
+- [232. Implement Queue using Stacks](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/stack/ImplementQueueUsingStacks.java) (Easy)
