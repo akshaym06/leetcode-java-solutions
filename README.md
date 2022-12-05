@@ -93,3 +93,4 @@
 - [496. Next Greater Element I](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/stack/NextGreaterElement1.java) (Easy)
 - [682. Baseball Game](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/stack/BaseballGame.java) (Easy)
 - [844. Backspace String Compare](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/stack/BackspaceStringCompare.java) (Easy)
+- [1021. Remove Outermost Parentheses](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/stack/RemoveOutermostParentheses.java) (Easy)
