@@ -91,3 +91,4 @@
 - [225. Implement Stack using Queues](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/stack/ImplementStackUsingQueues.java) (Easy)
 - [232. Implement Queue using Stacks](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/stack/ImplementQueueUsingStacks.java) (Easy)
 - [496. Next Greater Element I](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/stack/NextGreaterElement1.java) (Easy)
+- [682. Baseball Game](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/stack/BaseballGame.java) (Easy)
