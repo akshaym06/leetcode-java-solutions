@@ -85,3 +85,7 @@
 [Heap](https://github.com/akshaym06/leetcode-java-solutions/tree/main/src/heap)
 
 - [215. Kth Largest Element in an Array](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/binarytree/KthLargest.java) (Medium)
+
+[Stack](https://github.com/akshaym06/leetcode-java-solutions/tree/main/src/stack)
+
+- [225. Implement Stack using Queues](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/stack/ImplementStackUsingQueues.java) (Easy)
