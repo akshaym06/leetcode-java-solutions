@@ -95,3 +95,4 @@
 - [844. Backspace String Compare](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/stack/BackspaceStringCompare.java) (Easy)
 - [1021. Remove Outermost Parentheses](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/stack/RemoveOutermostParentheses.java) (Easy)
 - [1047. Remove All Adjacent Duplicates In String](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/stack/RemoveAdjacentDuplicates.java) (Easy)
+- [1475. Final Prices With a Special Discount in a Shop](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/stack/SpecialDiscountInShop.java) (Easy)
