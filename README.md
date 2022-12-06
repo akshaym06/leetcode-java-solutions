@@ -98,3 +98,4 @@
 - [1475. Final Prices With a Special Discount in a Shop](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/stack/SpecialDiscountInShop.java) (Easy)
 - [1544. Make The String Great](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/stack/MakeTheStringGreat.java) (Easy)
 - [1598. Crawler Log Folder](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/stack/CrawlerLogFolder.java) (Easy)
+- [1614. Maximum Nesting Depth of the Parentheses](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/stack/MaxParenthesesDepth.java) (Easy)
