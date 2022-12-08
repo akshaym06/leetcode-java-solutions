@@ -19,6 +19,7 @@
 - [228. Summary Ranges](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/array/SummaryRanges.java) (Easy)
 - [268. Missing Number](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/array/MissingNumber.java) (Easy)
 - [283. Move Zeroes](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/array/MoveZeros.java) (Easy)
+- [303. Range Sum Query - Immutable](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/array/RangeSumQuery.java) (Easy)
 - [11. Container With Most Water](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/array/ContainerWithMostWater.java) (Medium)
 - [15. 3Sum](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/array/ThreeSum.java) (Medium)
 - [16. 3Sum Closest](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/array/ThreeSumClosest.java) (Medium)
