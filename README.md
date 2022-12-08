@@ -17,6 +17,7 @@
 - [217. Contains Duplicate](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/array/ContainsDuplicate.java) (Easy)
 - [219. Contains Duplicate II](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/array/ContainsDuplicate2.java) (Easy)
 - [228. Summary Ranges](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/array/SummaryRanges.java) (Easy)
+- [268. Missing Number](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/array/MissingNumber.java) (Easy)
 - [11. Container With Most Water](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/array/ContainerWithMostWater.java) (Medium)
 - [15. 3Sum](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/array/ThreeSum.java) (Medium)
 - [16. 3Sum Closest](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/array/ThreeSumClosest.java) (Medium)
