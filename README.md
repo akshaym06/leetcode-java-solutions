@@ -103,3 +103,7 @@
 - [1598. Crawler Log Folder](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/stack/CrawlerLogFolder.java) (Easy)
 - [1614. Maximum Nesting Depth of the Parentheses](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/stack/MaxParenthesesDepth.java) (Easy)
 - [1700. Number of Students Unable to Eat Lunch](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/stack/StudentsUnableToEatLunch.java) (Easy)
+
+[Greedy](https://github.com/akshaym06/leetcode-java-solutions/tree/main/src/greedy)
+
+- [409. Longest Palindrome](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/greedy/LongestPalindrome.java) (Easy)
