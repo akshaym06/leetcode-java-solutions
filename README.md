@@ -111,3 +111,7 @@
 - [561. Array Partition](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/greedy/ArrayPartition.java) (Easy)
 - [605. Can Place Flowers](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/greedy/CanPlaceFlowers.java) (Easy)
 - [680. Valid Palindrome II](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/greedy/ValidPalindrome2.java) (Easy)
+
+[Graph](https://github.com/akshaym06/leetcode-java-solutions/tree/main/src/graph)
+
+- [997. Find the Town Judge](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/graph/FindTheTownJudge.java) (Easy)
