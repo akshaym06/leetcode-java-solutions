@@ -121,3 +121,4 @@
 - [70. Climbing Stairs](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/dp/ClimbingStairs.java) (Easy)
 - [118. Pascal's Triangle](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/dp/PascalTriangle.java) (Easy)
 - [119. Pascal's Triangle II](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/dp/PascalTriangle2.java) (Easy)
+- [338. Counting Bits](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/dp/CountingBits.java) (Easy)
