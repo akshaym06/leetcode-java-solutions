@@ -119,3 +119,4 @@
 [Dynamic programming](https://github.com/akshaym06/leetcode-java-solutions/tree/main/src/dp)
 
 - [70. Climbing Stairs](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/dp/ClimbingStairs.java) (Easy)
+- [118. Pascal's Triangle](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/dp/PascalTriangle.java) (Easy)
