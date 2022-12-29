@@ -123,3 +123,4 @@
 - [119. Pascal's Triangle II](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/dp/PascalTriangle2.java) (Easy)
 - [338. Counting Bits](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/dp/CountingBits.java) (Easy)
 - [392. Is Subsequence](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/dp/IsSubsequence.java) (Easy)
+- [746. Min Cost Climbing Stairs](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/dp/MinCostClimbingStairs.java) (Easy)
