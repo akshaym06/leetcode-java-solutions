@@ -124,3 +124,4 @@
 - [338. Counting Bits](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/dp/CountingBits.java) (Easy)
 - [392. Is Subsequence](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/dp/IsSubsequence.java) (Easy)
 - [746. Min Cost Climbing Stairs](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/dp/MinCostClimbingStairs.java) (Easy)
+- [5. Longest Palindromic Substring](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/dp/LongestPalindromicSubstring.java) (Easy)
