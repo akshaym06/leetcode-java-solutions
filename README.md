@@ -115,3 +115,7 @@
 [Graph](https://github.com/akshaym06/leetcode-java-solutions/tree/main/src/graph)
 
 - [997. Find the Town Judge](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/graph/FindTheTownJudge.java) (Easy)
+
+[Dynamic programming](https://github.com/akshaym06/leetcode-java-solutions/tree/main/src/dp)
+
+- [70. Climbing Stairs](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/dp/ClimbingStairs.java) (Easy)
