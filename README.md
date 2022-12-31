@@ -126,3 +126,4 @@
 - [746. Min Cost Climbing Stairs](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/dp/MinCostClimbingStairs.java) (Easy)
 - [5. Longest Palindromic Substring](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/dp/LongestPalindromicSubstring.java) (Easy)
 - [45. Jump Game II](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/dp/JumpGame2.java) (Easy)
+- [53. Maximum Subarray](https://github.com/akshaym06/leetcode-java-solutions/blob/main/src/dp/MaximumSubarray.java) (Easy)
